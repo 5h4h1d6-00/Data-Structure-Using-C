@@ -13,13 +13,6 @@ A collection of Data Structure programs implemented in C Programming Language fo
 <br><br>
 
 <p>
-🌐 <strong>Live Website:</strong><br>
-<a href="https://5h4h1d6-00.github.io/Data-Structure-Using-C/" target="_blank">
-https://5h4h1d6-00.github.io/Data-Structure-Using-C/
-</a>
-</p>
-
-<p>
 📂 <strong>View Repository:</strong><br>
 <a href="https://github.com/5h4h1d6-00/Data-Structure-Using-C" target="_blank">
 https://github.com/5h4h1d6-00/Data-Structure-Using-C
