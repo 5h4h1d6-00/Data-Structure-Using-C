@@ -43,10 +43,11 @@ This repository contains the implementation of fundamental Data Structure concep
 <li>Insertion Sort</li>
 <li>Stack Operations</li>
 <li>Queue Operations</li>
-<li>Infix Expressions</li>
-<li>Prefix Expressions</li>
-<li>Postfix Expressions</li>
 <li>Expression Conversion & Evaluation</li>
+  <li>Linked lists </li>
+  <li>Trees</li>
+  <li>Graphs</li>
+  
 </ul>
 
 <h2>🛠 Technologies Used</h2>
@@ -68,6 +69,9 @@ Data-Structures-Using-C/
 ├── Stack/
 ├── Queue/
 ├── Expressions/
+├── Linked-lists/
+├── Trees/
+├── Graphs/
 └── README.md
 </pre>
 
@@ -85,15 +89,7 @@ gcc filename.c -o output.exe
 output.exe
 </pre>
 
-<h2>🎯 Learning Outcomes</h2>
 
-<ul>
-<li>Understand Data Structure fundamentals.</li>
-<li>Implement linear data structures in C.</li>
-<li>Perform searching and sorting operations.</li>
-<li>Work with Stack and Queue operations.</li>
-<li>Analyze algorithm efficiency.</li>
-</ul>
 
 <hr>
 
