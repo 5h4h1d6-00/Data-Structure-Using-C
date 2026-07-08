@@ -29,7 +29,7 @@ https://github.com/5h4h1d6-00/Data-Structure-Using-C
 This repository contains the implementation of fundamental Data Structure concepts using the C programming language. The programs are designed to help students understand the practical working of various data structures and algorithms.
 </p>
 
-<h2>🚀 Topics Covered</h2>
+<h2> Topics Covered</h2>
 
 <ul>
 <li>Arrays</li>
@@ -101,7 +101,7 @@ output.exe
 
 <h3>👨‍💻 Author</h3>
 
-<p><strong>Shahid Saleem Itoo</strong></p>
+<p><strong>Shahid Saleem</strong></p>
 
 <p>Data Structures Using C - Academic Practical Repository</p>
 
