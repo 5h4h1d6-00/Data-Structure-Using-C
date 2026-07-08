@@ -61,18 +61,59 @@ This repository contains the implementation of fundamental Data Structure concep
 <h2>📂 Repository Structure</h2>
 
 <pre>
-Data-Structures-Using-C/
+Data-Structures-Using-C
 │
-├── Arrays/
-├── Searching/
-├── Sorting/
-├── Stack/
-├── Queue/
-├── Expressions/
-├── Linked-lists/
-├── Trees/
-├── Graphs/
+├── Arrays
+│   ├── ArrayTraversal.c
+│   ├── ArrayInsertion.c
+│   └── ArrayDeletion.c
+│
+├── Searching
+│   ├── LinearSearch.c
+│   └── BinarySearch.c
+│
+├── Sorting
+│   ├── BubbleSort.c
+│   ├── SelectionSort.c
+│   └── InsertionSort.c
+│
+├── Stack
+│   ├── StackOperations.c
+│   └── StackUsingLinkedList.c
+│
+├── Queue
+│   ├── QueueOperations.c
+│   └── QueueUsingLinkedList.c
+│
+├── Expressions
+│   ├── InfixExpression.c
+│   ├── PrefixExpression.c
+│   ├── PostfixExpression.c
+│   ├── ExpressionConversion.c
+│   └── ExpressionEvaluation.c
+│
+├── Linked-lists
+│   ├── SinglyLinkedList.c
+│   ├── LinkedListInsertion.c
+│   ├── LinkedListDeletion.c
+│   ├── LinkedListTraversal.c
+│   ├── LinkedListReversal.c
+│   ├── DoublyLinkedList.c
+│   └── CircularLinkedList.c
+│
+├── Trees
+│   ├── BinaryTreeTraversal.c
+│   └── BinarySearchTree.c
+│
+├── Graphs
+│   ├── GraphAdjacencyMatrix.c
+│   ├── GraphAdjacencyList.c
+│   ├── BFS.c
+│   ├── DFS.c
+│   └── Dijkstra.c
+│
 └── README.md
+
 </pre>
 
 <h2>▶️ How to Run</h2>
