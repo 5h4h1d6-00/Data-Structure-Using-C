@@ -67,7 +67,33 @@ Data-Structures-Using-C
 │   ├── ArrayTraversal.c
 │   ├── ArrayInsertion.c
 │   └── ArrayDeletion.c
+├── Expressions
+│   ├── InfixExpression.c
+│   ├── PrefixExpression.c
+│   ├── PostfixExpression.c
+│   ├── ExpressionConversion.c
+│   └── ExpressionEvaluation.c
+|
+├── Graphs
+│   ├── GraphAdjacencyMatrix.c
+│   ├── GraphAdjacencyList.c
+│   ├── BFS.c
+│   ├── DFS.c
+│   └── Dijkstra.c
+|
+├── Linked-lists
+│   ├── SinglyLinkedList.c
+│   ├── LinkedListInsertion.c
+│   ├── LinkedListDeletion.c
+│   ├── LinkedListTraversal.c
+│   ├── LinkedListReversal.c
+│   ├── DoublyLinkedList.c
+│   └── CircularLinkedList.c  
 │
+├── Queue
+│   ├── QueueOperations.c
+│   └── QueueUsingLinkedList.c
+|
 ├── Searching
 │   ├── LinearSearch.c
 │   └── BinarySearch.c
@@ -81,36 +107,9 @@ Data-Structures-Using-C
 │   ├── StackOperations.c
 │   └── StackUsingLinkedList.c
 │
-├── Queue
-│   ├── QueueOperations.c
-│   └── QueueUsingLinkedList.c
-│
-├── Expressions
-│   ├── InfixExpression.c
-│   ├── PrefixExpression.c
-│   ├── PostfixExpression.c
-│   ├── ExpressionConversion.c
-│   └── ExpressionEvaluation.c
-│
-├── Linked-lists
-│   ├── SinglyLinkedList.c
-│   ├── LinkedListInsertion.c
-│   ├── LinkedListDeletion.c
-│   ├── LinkedListTraversal.c
-│   ├── LinkedListReversal.c
-│   ├── DoublyLinkedList.c
-│   └── CircularLinkedList.c
-│
 ├── Trees
 │   ├── BinaryTreeTraversal.c
 │   └── BinarySearchTree.c
-│
-├── Graphs
-│   ├── GraphAdjacencyMatrix.c
-│   ├── GraphAdjacencyList.c
-│   ├── BFS.c
-│   ├── DFS.c
-│   └── Dijkstra.c
 │
 └── README.md
 
